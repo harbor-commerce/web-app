@@ -1,4 +1,4 @@
 export const login = {
-  title: 'Log in',
-  submit: 'Continue',
+  title: 'Sign in',
+  submit: 'Sign in',
 }
